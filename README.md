@@ -26,29 +26,28 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/utsav-sinha" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Utsav Sinha | LinkedIn" height="30" width="40" />
+    <img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Utsav Sinha | LinkedIn" height="80" width="90" />
   </a>
   <a href="https://www.instagram.com/usin1901/?next=%2F&hl=en" target="_blank">
-    <img align="center" src="https://cdn.dribbble.com/users/291221/screenshots/5364847/instagram_dribbble.gif" alt="Utsav Sinha | Instagram" height="30" width="40" />
+    <img align="center" src="https://cdn.dribbble.com/users/291221/screenshots/5364847/instagram_dribbble.gif" alt="Utsav Sinha | Instagram" style="background-color: black" height="80" width="90" />
   </a>
     <a href="https://www.facebook.com/utsav.sinha.16" target="_blank">
-    <img align="center" src="https://cdn.dribbble.com/users/954572/screenshots/17357871/media/af709d784f14cb4cff42471e1afadd23.gif" alt="Utsav Sinha | Facebook" height="30" width="40" />
+    <img align="center" src="https://cdn.dribbble.com/users/954572/screenshots/17357871/media/af709d784f14cb4cff42471e1afadd23.gif" alt="Utsav Sinha | Facebook" style="background-color: black" height="80" width="90" />
   </a>
+   <a href="https://twitter.com/UtsavSi77798084" target="_blank">
+    <img align="center" src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="Utsav Sinha | X" style="background-color: black" height="80" width="90" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/c/c-icon.svg" alt="C" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" alt="C++" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-5.gif" alt="Python" width="60" height="60"/>
+  <img src="https://nexax.in/wp-content/uploads/2020/11/java-1.gif" alt="Java" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="SQL" width="60" height="60"/>
+  <img src="https://www.ujudebug.com/wp-content/uploads/2021/03/c-plus-plus-Logo-ujudebug-e1617611636592.png" alt="C++" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/powerbi/powerbi-icon.svg" alt="PowerBI" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="60" height="60"/>
 </p>
 
 <h3 align="left">Github Stats:</h3>
